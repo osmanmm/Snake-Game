@@ -11,9 +11,9 @@ Before you can run this client, you will need to be running the server side whic
  https://github.com/osmanmm/Snake-Game
  
 ## Getting Started
-install and run via npm
-npm install
-npm run play
+- install and run via npm
+- npm install
+- npm run play
 
 ## instructions
 - Follow steps inside the snek server repo to run the server side
@@ -22,8 +22,8 @@ npm run play
 ## control
 Use the keyboard to move the snake,
 
-up or W ==> SNAKE MOVE UP
-down or S ==> SNAKE MOVE UP
-left or A ==> SNAKE MOVE UP
-right or D ==> SNAKE MOVE UP
+- W ==> SNAKE MOVE UP  
+- S ==> SNAKE MOVE UP  
+- A ==> SNAKE MOVE UP  
+- D ==> SNAKE MOVE UP  
 
